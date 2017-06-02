@@ -3,11 +3,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <parent>
-        <groupId>com.ge</groupId>
-        <artifactId>multi</artifactId>
-        <version>1.0-SNAPSHOT</version>
-    </parent>
+    <groupId>com.ge</groupId>
 
     <artifactId>sharedlib</artifactId>
     <name>sharedlib</name>
